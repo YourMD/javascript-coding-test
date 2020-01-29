@@ -23,11 +23,11 @@ Your task is to write a very simple app to list given conditions.
 
 ## Mobile
 
-![](mobile.png) 
+![](docs/mobile.png) 
 
 ## Desktop
 
-![](desktop.png) 
+![](docs/desktop.png) 
 
 The design should be modular and responsive. A roughed out design that shows intent is better than a compromised pixel perfect design.
 
